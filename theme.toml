@@ -3,19 +3,19 @@
 
 name = "LaTeX.css"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = "http://example.com/"
-tags = []
+licenselink = "https://github.com/PonderCodes/hugo-latex-css/blob/main/LICENSE"
+description = "An implementation of LaTeX.css for Hugo"
+homepage = "https://latex-css.ponder.codes/"
+tags = ["latex"]
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Ponder"
+  homepage = "https://ponder.codes"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "LaTeX.css"
+  homepage = "https://latex.vercel.app/"
+  repo = "https://github.com/vincentdoerig/latex-css"
